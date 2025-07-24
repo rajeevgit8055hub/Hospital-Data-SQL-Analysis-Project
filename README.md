@@ -2,7 +2,7 @@
 A complete SQL-based data analysis project on fictional hospital records using **PostgreSQL**.  
 This project demonstrates how to clean, query, and analyze healthcare data to uncover key operational insights around **patient care, medical expenses, department efficiency**, and **resource utilization** using 20+ structured SQL queries.
 
-#### ----
+---
 
 ## 📌 Project Overview
 
@@ -11,7 +11,7 @@ By running a series of SQL queries, I simulated real-world healthcare reporting 
 
 The project aims to reveal patterns related to patient volume, doctor availability, average stay durations, city-wide demand, and hospital cost efficiency.
 
-#### ----
+---
 
 ## 📂 Dataset Used
 
@@ -28,7 +28,7 @@ The analysis was based on a single structured dataset `hospital`, assumed to hav
 
 📎 All data types were selected to support arithmetic operations, date calculations, and grouping functions.
 
-#### ----
+---
 
 ## 🎯 Project Objectives
 
@@ -41,7 +41,7 @@ The main objectives of this hospital data analysis project were to:
 ⏳ Measure treatment duration across departments  
 📈 Identify opportunities for improving operational efficiency
 
-#### ----
+---
 
 ## ⭕ Business Problems Addressed
 
@@ -55,7 +55,7 @@ The hospital administration wanted answers to the following real-world business 
 - What’s the average patient stay by department?  
 - Which city has the highest healthcare demand?
 
-#### ----
+---
 
 ## 🛠️ Methodology
 
@@ -83,7 +83,7 @@ Derived insights on:
 - Department-wise and city-wise resource usage  
 - Medical spending trends over time
 
-#### ----
+---
 
 ## 🔍 Key Insights & Solutions
 
@@ -123,7 +123,7 @@ Derived insights on:
 `AVG(discharge_date - admission_date) GROUP BY department`  
 → Benchmarked recovery/treatment efficiency.
 
-#### ----
+---
 
 ## 📈 Sample SQL Queries Used
 
@@ -147,7 +147,7 @@ Derived insights on:
 
 💡 *20+ SQL queries were crafted to replicate real-world hospital operations analysis.*
 
-#### ----
+---
 
 ## 🧠 Skills Gained
 
@@ -159,7 +159,7 @@ From this project, I developed practical experience in:
 - Grouping, ranking, and summarizing data  
 - Performing analytical tasks in a healthcare setting
 
-#### ----
+---
 
 ## 🔑 Why This Project Matters
 
@@ -169,7 +169,7 @@ From this project, I developed practical experience in:
 🚀 Prepares for roles in data analytics, healthcare BI, and reporting  
 📊 Sets a foundation for dashboard building and automation
 
-#### ----
+---
 
 ## ✅ Conclusion
 
@@ -185,5 +185,6 @@ It helped transform structured data into real-world decisions and operational im
 (*Visual: Hospital records database, SQL queries, patient and expense charts, healthcare insights*)
 
 ![Hospital Data Analysis Project](Hospital%20Data%20Analysis%20Project.jpg)
+
 ---
 
